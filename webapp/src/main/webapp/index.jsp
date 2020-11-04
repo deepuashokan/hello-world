@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> This is a sample Webpage !!! </h1>
+<h2> Created for POC assignment using Jenkins and Tomcat </h2>
+<h3> :) :) Welcome :) :) </h3>
